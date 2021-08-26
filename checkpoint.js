@@ -9,7 +9,7 @@ function esquentar(tempo, prato) {
     tempo_do_prato = ''
     mensagem = ''
     menu = false
-
+    // Sequencia de if's que especificam os parâmetros de cada item
     if (prato == 'pipoca') {
         tempo_do_prato = 10
         menu = true
