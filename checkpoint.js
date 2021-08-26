@@ -63,4 +63,4 @@ function esquentar(tempo, prato) {
 
 }
 
-esquentar(5, 'leite');
+esquentar(5, 'carne');
